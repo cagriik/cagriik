@@ -1,6 +1,6 @@
 
 ### Hi there, I am Çağrı 👋
-#### I am currently started learning Go 
+#### I currently started learning Go 
 
 
 *Technologies I'm Learning*
